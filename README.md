@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pycodebook
-- 👀 I’m interested in python programming, deeplearning, NLP
+- 👀 I’m interested in computer vision, deeplearning, NLP
 - 🌱 I’m currently learning Audio AI
 - 💞️ I’m looking to collaborate on Nepali TTS
 - 📫 How to reach me : mailashokbasnet@gmail.com
