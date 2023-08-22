@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Audio AI
 - 💞️ I’m looking to collaborate on Nepali TTS
 - 📫 How to reach me : mailashokbasnet@gmail.com
+- 📫 whats app: +977 9861634439
 
 <!---
 pycodebook/pycodebook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
